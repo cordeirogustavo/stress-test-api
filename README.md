@@ -65,12 +65,12 @@ git clone https://github.com/cordeirogustavo/stress-test-api.git
 
 2. Install dependency
 
-   ```bash
-   npm i
-   ```
+```bash
+npm i
+```
 
 3. Run locally
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
