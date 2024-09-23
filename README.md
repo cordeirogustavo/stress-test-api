@@ -13,7 +13,6 @@ The API repeatedly sends requests to the provided endpoint, with the ability to:
 - Automatically increment certain fields in the request body for each call (`shouldIncrementFields`)
 - Define which fields should be ignored during increment (`skipIncrementFields`)
 
-##Stringfy your params or body
 [You can use this link to stringfy your body or params](https://jsonformatter.org/json-stringify-online)
 
 ### Parameters
@@ -51,12 +50,12 @@ The API repeatedly sends requests to the provided endpoint, with the ability to:
 }
 ```
 
-####### Prerequisites
+## Prerequisites
 
 - [Node.js](https://nodejs.org/en/) >= 21.x
 - [npm](https://www.npmjs.com/) >= 10.x
 
-######## Installation
+## Installation
 
 1. Clone this repository:
 
