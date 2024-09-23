@@ -59,11 +59,9 @@ The API repeatedly sends requests to the provided endpoint, with the ability to:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/cordeirogustavo/stress-test-api.git
-   ```
-
-````
+```bash
+git clone https://github.com/cordeirogustavo/stress-test-api.git
+```
 
 2. Install dependency
 
@@ -76,4 +74,3 @@ The API repeatedly sends requests to the provided endpoint, with the ability to:
    ```bash
    npm run dev
    ```
-````
